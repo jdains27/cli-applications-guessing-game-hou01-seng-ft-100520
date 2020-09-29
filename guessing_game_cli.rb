@@ -1,4 +1,3 @@
-# Code your solution here!
 def random_num
   rand(1..6)
 end
