@@ -14,7 +14,7 @@ def run_guessing_game
   if user_num.length == 1
     user_num = user_num.to_i
     if user_num == num
-      print "You guessed the correct number!"
+      print "Nice Guess!"
     else
       print "Sorry! The computer guessed #{num}."
     end
